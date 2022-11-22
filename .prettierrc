@@ -1,0 +1,8 @@
+{
+  "printWidth": 100,
+  "singleQuote": true,
+  "quoteProps": "consistent",
+  "trailingComma": "none",
+  "pluginSearchDirs": false,
+  "plugins": ["prettier-plugin-organize-attributes", "prettier-plugin-tailwindcss"]
+}
