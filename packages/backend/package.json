@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "tsx ./src/index.ts",
+    "dev": "tsx watch ./src/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "tsx": "^3.12.1"
+  }
+}
